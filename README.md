@@ -1,3 +1,6 @@
+## This fork has been archived, and the parent appears to be more active.  I would suggest checking with the parent repo.
+
+
 # DCSTheWay
 Imports waypoints from DCS F10 map into the plane navigation system, like a Data Transfer Cartridge.
 Special thanks to kukiric for helping out with the lua side of things!
